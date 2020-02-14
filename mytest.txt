@@ -1,0 +1,2 @@
+ensure there is a conflict
+conflict
