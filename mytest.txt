@@ -1,1 +1,2 @@
 ensure there is a conflict
+anything
